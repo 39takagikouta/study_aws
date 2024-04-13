@@ -43,3 +43,5 @@ dig tansan.xyz NS +short
 digはドメインに紐づくipアドレスや逆を調べられる
 NS　ネームサーバー　+shortでシンプル表示
 なんかdig表示されへんけど普通にいけてるっぽいな　独自ドメインに繋いだらお名前.comにとぶし
+dig wa-rise.com NS +short
+とかでも見れるんや
